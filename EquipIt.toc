@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: EquipIt
+## Notes: Automatically wear an equipment set with certain triggers.
+## Author: Akcent
+## Version: 0.1.0
+
+EquipIt.lua
